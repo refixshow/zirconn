@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const Home: NextPage = () => {
   return (
-    <div className="relative min-h-screen md:overflow-hidden py-10 px-5">
+    <div className="relative h-screen md:h-auto md:min-h-screen overflow-hidden py-10 px-5">
       <Head>
         <title>Zirconn PCB manufacturer</title>
       </Head>
