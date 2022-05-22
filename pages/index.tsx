@@ -77,7 +77,7 @@ const Home: NextPage = () => {
             />
           </svg>
           <div>
-            <Image src={hero} />
+            <Image src={hero} alt="work-in-progress image" />
           </div>
           <div>
             <h1 className="text-4xl font-bold">
