@@ -234,7 +234,7 @@ const Home: NextPage = () => {
         <section className="bg-slate-200 pt-80 -mt-80">
           <div className="text-center">
             <h2 className="text-6xl leading-relaxed font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-brand to-pink-600 drop-shadow-2xl">
-              Why should You trust us?
+              Why should You trust us??
             </h2>
             <p>
               It is a long established fact that a reader will be distracted by
